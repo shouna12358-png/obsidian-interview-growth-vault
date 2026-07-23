@@ -1,0 +1,5 @@
+interface:
+  display_name: "Obsidian 面试自生长库"
+  short_description: "一键创建、升级并维护可持续生长的 AI 面试准备知识库"
+  default_prompt: "Use $obsidian-interview-growth-vault to create a privacy-safe interview-growth Obsidian vault in my chosen folder."
+
